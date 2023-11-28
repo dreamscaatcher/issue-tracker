@@ -1,6 +1,6 @@
 import React from 'react'
 
-const issues = () => {
+const IssuesPage = () => {
   return (
     <div>
       This is issues Page-Welcome
@@ -8,4 +8,4 @@ const issues = () => {
   )
 }
 
-export default issues
+export default IssuesPage
